@@ -1,0 +1,10 @@
+Branch,Trading period,Transactions,Hours in bucket,Transactions per hour
+A,Afternoon,1005,4,251.25
+A,Evening,1199,4,299.75
+A,Morning,728,3,242.66666666666666
+B,Afternoon,940,4,235.0
+B,Evening,1009,4,252.25
+B,Morning,701,3,233.66666666666666
+C,Afternoon,1008,4,252.0
+C,Evening,1201,4,300.25
+C,Morning,723,3,241.0
